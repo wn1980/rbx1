@@ -2,7 +2,7 @@
 
 # Install the prerequisites for the ROS By Example code, Volume 1
 
-sudo apt-get install ros-kinetic-turtlebot-bringup \
+sudo apt-get install -y ros-kinetic-turtlebot-bringup \
 ros-kinetic-openni-* ros-kinetic-openni2-* \
 ros-kinetic-freenect-* ros-kinetic-usb-cam \
 ros-kinetic-audio-common gstreamer1.0-pocketsphinx \
